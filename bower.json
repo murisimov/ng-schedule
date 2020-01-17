@@ -17,9 +17,9 @@
   "keywords": [
     "angular",
     "schedule",
-    "ngScheduler"
+    "ngSchedule"
   ],
-  "homepage": "https://github.com/viniciusmelquiades/ng-schedule",
+  "homepage": "https://github.com/murisimov/ng-schedule",
   "ignore": [
     "**/.*",
     "node_modules",

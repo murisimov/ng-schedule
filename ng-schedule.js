@@ -122,7 +122,7 @@ var ngSchedule;
                             scope.days = days;
                         }
                         else {
-                            logger.warn("ngScheduler - the days array contains " + scope.days.length + " entries. The default value will be used.");
+                            logger.warn("ngSchedule - the days array contains " + scope.days.length + " entries. The default value will be used.");
                             scope.days = null;
                         }
                 }
